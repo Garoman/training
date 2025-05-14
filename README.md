@@ -53,3 +53,4 @@ Training repo
 
 Useful links:
 - https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
+- https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
