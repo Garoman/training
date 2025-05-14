@@ -50,3 +50,6 @@ Training repo
 44. Add microservice communication with Kafka (or RabbitMQ)
 45. Practice clear commit messages
 46. Practice different git practices
+
+Useful links:
+- https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
