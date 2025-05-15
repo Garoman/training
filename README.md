@@ -54,3 +54,6 @@ Training repo
 Useful links:
 - https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/
 - https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
+- https://vite.dev/guide/
+- https://medium.com/@victoria.kruczek_15509/create-a-local-database-with-docker-compose-and-view-it-in-mysql-workbench-974aee047874
+- https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
