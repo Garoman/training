@@ -3,7 +3,7 @@ const dotenvPath = path.resolve(__dirname, `../../../.env.${process.env.NODE_ENV
 require('dotenv').config({ path: dotenvPath });
 
 module.exports = {
-    "development": {
+    "dev": {
         "username": process.env.DB_USERNAME,
         "password": process.env.DB_PASSWORD,
         "database": process.env.DB_NAME,
