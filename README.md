@@ -57,3 +57,17 @@ Useful links:
 - https://vite.dev/guide/
 - https://medium.com/@victoria.kruczek_15509/create-a-local-database-with-docker-compose-and-view-it-in-mysql-workbench-974aee047874
 - https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
+- https://article.arunangshudas.com/how-do-you-handle-secrets-and-environment-variables-in-a-node-js-application-75e412f5a2e1
+- https://thegeekplanets.medium.com/managing-environment-variables-in-node-js-using-the-dotenv-package-2a5c8eee61a8
+- https://jazimabbas.medium.com/navigating-database-migrations-with-confidence-a-step-by-step-guide-using-sequelize-85bbdb7fc97a
+- https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysql
+- https://medium.com/@darrand37/migrations-and-seeding-made-easy-in-node-js-using-sequelize-80bd13620b45
+
+Use Vite with React
+Use Winston as a Nodejs logger
+Use Knex.js, Prisma, TypeORM, or Sequelize ORM for versioned db migrations and programmatic seeding
+
+In backend, for local development, run the following commands at the beginning:
+- npm run start:dev
+- npm run db:migrate
+- npm run db:seed
